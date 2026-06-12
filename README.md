@@ -95,7 +95,7 @@ Listes utilisées :
 
 ## Schéma d'architecture
 
-![Architecture](schema-securite.png)
+![Architecture](<img width="1536" height="1024" alt="schéma infrastructure" src="https://github.com/user-attachments/assets/9776ffb4-06e7-4506-bf82-652b6cd3298f" />)
 
 *Conception fonctionnelle, organisation des couches de sécurité et validation technique : Loïc Lemasson. Réalisation graphique assistée par intelligence artificielle.*
 
@@ -142,7 +142,8 @@ La sécurité repose sur une approche multicouche où chaque composant complète
 
 La documentation détaillée du projet est disponible dans :
 
-file:///home/loiclemasson/T%C3%A9l%C3%A9chargements/Infrastructure%20de%20S%C3%A9curit%C3%A9%20R%C3%A9seau(loic%20lemasson).pdf
+![Infrastructure de Sécurité Réseau(loic lemasson).pdf](https://github.com/user-attachments/files/28878618/Infrastructure.de.Securite.Reseau.loic.lemasson.pdf)
+
 
 ---
 
