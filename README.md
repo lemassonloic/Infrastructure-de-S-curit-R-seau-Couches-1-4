@@ -1,5 +1,9 @@
 # Infrastructure de Sécurité Réseau Multi-Couches sous Ubuntu 24.04
 
+La documentation détaillée du projet est disponible ici :
+
+![Infrastructure de Sécurité Réseau(loic lemasson).pdf](https://github.com/user-attachments/files/28878618/Infrastructure.de.Securite.Reseau.loic.lemasson.pdf)
+
 ## Présentation
 
 Ce projet a pour objectif la mise en place d'une architecture de sécurité réseau reposant sur le principe de la défense en profondeur (Defense in Depth).
