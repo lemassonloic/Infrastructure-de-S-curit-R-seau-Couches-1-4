@@ -95,7 +95,7 @@ Listes utilisées :
 
 ## Schéma d'architecture
 
-![Architecture](<img width="1536" height="1024" alt="schéma infrastructure" src="https://github.com/user-attachments/assets/9776ffb4-06e7-4506-bf82-652b6cd3298f" />)
+![shcéma infrastructure.png](<img width="1536" height="1024" alt="schéma infrastructure" src="https://github.com/user-attachments/assets/9776ffb4-06e7-4506-bf82-652b6cd3298f" />)
 
 *Conception fonctionnelle, organisation des couches de sécurité et validation technique : Loïc Lemasson. Réalisation graphique assistée par intelligence artificielle.*
 
